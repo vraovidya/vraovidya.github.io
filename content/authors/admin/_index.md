@@ -88,3 +88,31 @@ I received my Bachelor's in Electronics and Telecommunication Engineering from [
 
 I have a strong interest in fitness, and in my leisure time, I engage in long-distance running. 
 {style="text-align: justify;"}
+
+## <i class="fa fa-fw fa-rss "></i> Recent News ##
+
+<ul style="width: auto; height: 300px; overflow: auto">
+
+
+  <li> <b>[Mar, 2024]</b>. Attended HPCA 2024 at Edinburgh, Scotland </li>
+
+  <li> <b>[Feb, 2024]</b>. Passed my Ph.D. qualifier exam. Yaay!! </li>
+
+  <li> <b>[Feb, 2024]</b>. Our paper <a href="https://arxiv.org/abs/2311.12396">GreenFPGA</a> is accepted by <a href="https://www.dac.com/">DAC 2024</a>! </li>
+  
+  <li> <b>[Oct, 2023]</b>. Our work on estimating carbon footprint for heterogeneous chiplet-based systems is open-sourced! 
+  Check it out. <a href="https://github.com/ASU-VDA-Lab/ECO-CHIP/tree/main">ECO-CHIP Github</a>  </li>
+  
+  <li> <b>[Oct, 2023]</b>. Our paper <a href="https://arxiv.org/abs/2306.09434">ECO-CHIP</a> is accepted by <a href="https://www.hpca-conf.org/2024/">HPCA 2024</a>! </li>
+  
+  <li> <b>[July, 2023]</b>. Secured DAC 2023 Young Fellow </li>
+
+  <li> <b>[July, 2023]</b>. Attended DAC 2023 at San Fransisco</li>
+  
+  <li> <b>[Jan, 2023]</b>. Started my Ph.D. journey!</li>
+  
+</ul>
+
+
+
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=n&d=7LPMKBvOIR5LYlN7CGtXpjN81mj-6QodVwwMjsE2ASE&co=00b5fe&cmo=fea500'></script>
