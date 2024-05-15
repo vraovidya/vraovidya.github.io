@@ -50,41 +50,41 @@ sections:
   #    username: admin
   #  design:
   #    columns: '1'
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
+  #C- block: experience
+  #C  content:
+  #C    title: Experience
+  #C    # Date format for experience
+  #C    #   Refer to https://docs.hugoblox.com/customization/#date-format
+  #C    date_format: Jan 2006
+  #C    # Experiences.
+  #C    #   Add/remove as many `experience` items below as you like.
+  #C    #   Required fields are `title`, `company`, and `date_start`.
+  #C    #   Leave `date_end` empty if it's your current employer.
+  #C    #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #C    items:
+  #C      - title: CEO
+  #C        company: GenCoin
+  #C        company_url: ''
+  #C        company_logo: org-gc
+  #C        location: California
+  #C        date_start: '2021-01-01'
+  #C        date_end: ''
+  #C        description: |2-
+  #C            Responsibilities include:
+  #C
+  #C            * Analysing
+  #C            * Modelling
+  #C            * Deploying
+  #C      - title: Professor of Semiconductor Physics
+  #C        company: University X
+  #C        company_url: ''
+  #C        company_logo: org-x
+  #C        location: California
+  #C        date_start: '2016-01-01'
+  #C        date_end: '2020-12-31'
+  #C        description: Taught electronic engineering and researched semiconductor physics.
+  #C  design:
+  #C    columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
