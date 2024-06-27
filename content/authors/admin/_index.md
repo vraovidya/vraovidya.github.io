@@ -134,8 +134,9 @@ I have a strong interest in fitness, and in my leisure time, I engage in long-di
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-
-  <li> <b>[Mar, 2024]</b>. Attended HPCA 2024 at Edinburgh, Scotland </li>
+  <li> <b>[Jun, 2024]</b>. Attended <a href="https://www.dac.com/">DAC 2024</a>! at San Francisco, presented my work <a href="https://arxiv.org/abs/2311.12396">GreenFPGA</a> </li>
+ 
+  <li> <b>[Mar, 2024]</b>. Attended <a href="https://www.computer.org/csdl/proceedings/hpca/2024/1VOAw53AeT6">HPCA 2024</a>! at Edinburgh, Scotland and presented my work <a href="https://arxiv.org/abs/2306.09434">ECO-CHIP</a> </li>
 
   <li> <b>[Feb, 2024]</b>. Passed my Ph.D. qualifier exam. Yaay!! </li>
 
@@ -144,11 +145,11 @@ I have a strong interest in fitness, and in my leisure time, I engage in long-di
   <li> <b>[Oct, 2023]</b>. Our work on estimating carbon footprint for heterogeneous chiplet-based systems is open-sourced! 
   Check it out. <a href="https://github.com/ASU-VDA-Lab/ECO-CHIP/tree/main">ECO-CHIP Github</a>  </li>
   
-  <li> <b>[Oct, 2023]</b>. Our paper <a href="https://arxiv.org/abs/2306.09434">ECO-CHIP</a> is accepted by <a href="https://www.hpca-conf.org/2024/">HPCA 2024</a>! </li>
+  <li> <b>[Oct, 2023]</b>. Our paper <a href="https://arxiv.org/abs/2306.09434">ECO-CHIP</a> is accepted by <a href="https://www.computer.org/csdl/proceedings/hpca/2024/1VOAw53AeT6">HPCA 2024</a>! </li>
   
   <li> <b>[July, 2023]</b>. Secured DAC 2023 Young Fellow </li>
 
-  <li> <b>[July, 2023]</b>. Attended DAC 2023 at San Fransisco</li>
+  <li> <b>[July, 2023]</b>. Attended DAC 2023 at San Francisco</li>
   
   <li> <b>[Jan, 2023]</b>. Started my Ph.D. journey!</li>
   
