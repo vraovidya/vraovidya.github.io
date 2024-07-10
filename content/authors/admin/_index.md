@@ -137,18 +137,18 @@ I have a strong interest in fitness, and in my leisure time, I engage in long-di
   
   <li> <b>[Jun, 2024]</b> Our work on evaluting FPGA as environmentally sustainable computing solution is open-sourced! Check it out <b><a href="https://github.com/ASU-VDA-Lab/GreenFPGA">GreenFPGA GitHub</a></b> </li>
 
-  <li> <b>[Jun, 2024]</b>. Attended <a href="https://www.dac.com/">DAC 2024</a>! at San Francisco, presented my work <a href="https://arxiv.org/abs/2311.12396">GreenFPGA</a> </li>
+  <li> <b>[Jun, 2024]</b>. Attended <a href="https://www.dac.com/">DAC 2024</a>! at San Francisco, presented my work <b><a href="https://arxiv.org/abs/2311.12396">GreenFPGA paper</a></b> </li>
  
-  <li> <b>[Mar, 2024]</b>. Attended <a href="https://www.computer.org/csdl/proceedings/hpca/2024/1VOAw53AeT6">HPCA 2024</a>! at Edinburgh, Scotland and presented my work <a href="https://arxiv.org/abs/2306.09434">ECO-CHIP</a> </li>
+  <li> <b>[Mar, 2024]</b>. Attended <a href="https://www.computer.org/csdl/proceedings/hpca/2024/1VOAw53AeT6">HPCA 2024</a>! at Edinburgh, Scotland and presented my work <b><a href="https://arxiv.org/abs/2306.09434">ECO-CHIP paper</a></b> </li>
 
   <li> <b>[Feb, 2024]</b>. Passed my Ph.D. qualifier exam. Yaay!! </li>
 
-  <li> <b>[Feb, 2024]</b>. Our paper <a href="https://arxiv.org/abs/2311.12396">GreenFPGA</a> is accepted by <a href="https://www.dac.com/">DAC 2024</a>! </li>
+  <li> <b>[Feb, 2024]</b>. Our paper <a href="https://arxiv.org/abs/2311.12396">GreenFPGA paper</a> is accepted by <a href="https://www.dac.com/">DAC 2024</a>! </li>
   
   <li> <b>[Oct, 2023]</b>. Our work on estimating carbon footprint for heterogeneous chiplet-based systems is open-sourced! 
-  Check it out. <a href="https://github.com/ASU-VDA-Lab/ECO-CHIP/tree/main">ECO-CHIP Github</a>  </li>
+  Check it out. <b><a href="https://github.com/ASU-VDA-Lab/ECO-CHIP/tree/main">ECO-CHIP Github</a></b>  </li>
   
-  <li> <b>[Oct, 2023]</b>. Our paper <a href="https://arxiv.org/abs/2306.09434">ECO-CHIP</a> is accepted by <a href="https://www.computer.org/csdl/proceedings/hpca/2024/1VOAw53AeT6">HPCA 2024</a>! </li>
+  <li> <b>[Oct, 2023]</b>. Our paper <a href="https://arxiv.org/abs/2306.09434">ECO-CHIP paper</a> is accepted by <a href="https://www.computer.org/csdl/proceedings/hpca/2024/1VOAw53AeT6">HPCA 2024</a>! </li>
   
   <li> <b>[July, 2023]</b>. Secured DAC 2023 Young Fellow </li>
 
