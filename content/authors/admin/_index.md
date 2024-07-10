@@ -133,9 +133,9 @@ I have a strong interest in fitness, and in my leisure time, I engage in long-di
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[July, 2024]</b>. Gave a talk on Sustainable computing work - <a href="https://github.com/ASU-VDA-Lab/GreenFPGA">GreenFPGA< /a> and <a href="https://github.com/ASU-VDA-Lab/ECO-CHIP/tree/main">ECO-CHIP Github</a> at Microsoft Research </li>
+  <li> <b>[July, 2024]</b>. Gave a talk on Sustainable computing work - <a href="https://github.com/ASU-VDA-Lab/GreenFPGA">GreenFPGA</a> and <a href="https://github.com/ASU-VDA-Lab/ECO-CHIP/tree/main">ECO-CHIP Github</a> at Microsoft Research </li>
   
-  <li> <b>[Jun, 2024]</b> Our work on evaluting FPGA as environmentally sustainable computing solution is open-sourced! Check it out <a href="https://github.com/ASU-VDA-Lab/GreenFPGA">GreenFPGA GitHub< /a>
+  <li> <b>[Jun, 2024]</b> Our work on evaluting FPGA as environmentally sustainable computing solution is open-sourced! Check it out <a href="https://github.com/ASU-VDA-Lab/GreenFPGA">GreenFPGA GitHub</a> <li>
 
   <li> <b>[Jun, 2024]</b>. Attended <a href="https://www.dac.com/">DAC 2024</a>! at San Francisco, presented my work <a href="https://arxiv.org/abs/2311.12396">GreenFPGA</a> </li>
  
