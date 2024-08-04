@@ -51,7 +51,7 @@ url_code: 'https://github.com/ASU-VDA-Lab/ECO-CHIP'
 url_dataset: ''
 url_poster: 'publication/ecochip/ecochip_poster.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'works/ecochip_hpca24_slides.pdf'
 url_source: ''
 url_video: ''
 
