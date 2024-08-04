@@ -214,16 +214,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  #C - block: collection
-  #C   id: talks
-  #C   content:
-  #C     title: Recent & Upcoming Talks
-  #C     filters:
-  #C       folders:
-  #C         - event
-  #C   design:
-  #C     columns: '2'
-  #C     view: compact
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
   #C - block: tag_cloud
   #C   content:
   #C    title: Popular Topics
