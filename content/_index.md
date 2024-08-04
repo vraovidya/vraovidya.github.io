@@ -224,10 +224,10 @@ sections:
   #C   design:
   #C     columns: '2'
   #C     view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
+  #C - block: tag_cloud
+  #C   content:
+  #C    title: Popular Topics
+  #C  design:
       columns: '2'
   - block: contact
     id: contact
