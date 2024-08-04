@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chetan
+title: Chetan Sudarshan
 
 # Name pronunciation (optional)
 #name_pronunciation: Chetan
