@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2306.09434'
 url_code: 'https://github.com/ASU-VDA-Lab/ECO-CHIP'
 url_dataset: ''
 url_poster: ''
