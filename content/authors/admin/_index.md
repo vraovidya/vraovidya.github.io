@@ -3,7 +3,7 @@
 title: Chetan
 
 # Name pronunciation (optional)
-name_pronunciation: Chetan
+#name_pronunciation: Chetan
 
 # Full name (for SEO)
 first_name: Chetan
