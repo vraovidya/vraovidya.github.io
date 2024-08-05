@@ -94,7 +94,8 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: vasudevaraovidya@gmail.com
+    #V link: '/#contact'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/ChetanSudarshan
