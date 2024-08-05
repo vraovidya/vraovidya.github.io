@@ -1,5 +1,5 @@
 ---
-title: 'ECO-CHIP: Estimation of Carbon Footprint of Chiplet-based Architectures for Sustainable VLSI'
+title: 'GreenFPGA: Evaluating FPGAs as Environmentally Sustainable Computing Solutions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -49,9 +49,9 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2311.12396'
 url_code: 'https://github.com/ASU-VDA-Lab/GreenFPGA'
 url_dataset: ''
-url_poster: 'publication/ecochip/greenfpga_dac24_poster.pdf'
+url_poster: 'publication/greenfpga/greenfpga_dac24_poster.pdf'
 url_project: ''
-url_slides: 'publication/ecochip/greenfpga_dac24_slides.pdf'
+url_slides: 'publication/greenfpga/greenfpga_dac24_slides.pdf'
 url_source: ''
 url_video: ''
 
