@@ -123,13 +123,16 @@ social:
 highlight_name: true
 ---
 
-I am a second-year Ph.D. student at [Arizona State University](https://ecee.engineering.asu.edu/), where I am fortunate to be advised by [Prof. Vidya A Chhabria](https://faculty.engineering.asu.edu/vidyachhabria/). Currently, my research is centered around sustainable computing and chiplet-based heterogeneous integration architecture.
+ 
 
-I received my Bachelor's in Electronics and Telecommunication Engineering from [R.V. College of Engineering](https://www.rvce.edu.in/), I then graduated with a Master's in Electrical Engineering from [Arizona State University](https://ecee.engineering.asu.edu/). 
+I earned my Bachelor of Engineering in Biotechnology from [R.V. College of Engineering](https://www.rvce.edu.in/) in Bengaluru, India. Subsequently, I pursued a Master of Science in Biomedical Engineering at the[University of Southern Californiay](https://viterbischool.usc.edu/) in Los Angeles. Since then, I have gained valuable experience working in both dynamic startups and established medical device corporations.
 
-I have a strong interest in fitness, and in my leisure time, I engage in long-distance running. 
+Beyond my professional pursuits, I am a passionate musician with over two decades of traditional music training and I have performed in multiple musical concerts, gaining awards and recognition. I have my own [Youtube channel](https://www.youtube.com/@vidyavasudevarao953) 
+
+
 {style="text-align: justify;"}
 
+<!-- ---
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
@@ -157,7 +160,7 @@ I have a strong interest in fitness, and in my leisure time, I engage in long-di
   <li> <b>[Jan, 2023]</b>. Started my Ph.D. journey!</li>
   
 </ul>
-
+--- -->
 
 
 <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=450&t=n&d=7LPMKBvOIR5LYlN7CGtXpjN81mj-6QodVwwMjsE2ASE&co=00b5fe&cmo=fea500'></script>
