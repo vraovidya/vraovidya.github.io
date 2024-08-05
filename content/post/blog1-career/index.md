@@ -1,5 +1,7 @@
 ---
 title: Exploring Career Paths in Biotechnology and Biomedical Sciences
+authors:
+  - admin
 date: 2024-08-05
 math: true
 image:
