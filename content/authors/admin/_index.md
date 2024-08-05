@@ -20,44 +20,44 @@ superuser: true
 role: Quality & Regulatory Professional, Certified ISO 13485:2016 Lead Auditor
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Arizona State University
-    url: https://ecee.engineering.asu.edu/
+# organizations:
+#  - name: Arizona State University
+#    url: https://ecee.engineering.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include sustainable computing, heterogeneous integration, chiplets, and computer architecture
+# bio: My research interests include sustainable computing, heterogeneous integration, chiplets, and computer architecture
 
 # Interests to show in About widget
-interests:
-  - Sustainable Computing 
-  - Heterogeneous Integration
-  - Chiplets
-  - Computer Architecture
+Interests:
+  - Biotechnology 
+  - Biomedical Engineering
+  - Regulatory Affairs
+  - Quality Engineering
+  - Risk Management
+  - Project Management
+  - Change Management
 
-## Education to show in About widget
-#education:
-#  courses:
-#    - course: PhD in Electrical Engineering
-#      institution: Arizona State University
-#      year : 2023-Present
-#    - course: Masters in Electrical Engineering
-#      institution: Arizona State University
-#      year: 2016-2018
-#    - course: B.Tech in Electronics and Telecommunication Engineering
-#      institution: R.V. College of Engineering, Bangalore
-#      year: 2012-2016
+# Education to show in About widget
+Education:
+  courses:
+    - course: Masters in Biomedical Engineering
+      institution: University of Southern California
+      year : 2016-2018
+    - course: Bachelors in Biotechnology Engineering
+      institution: R.V. College of Engineering, Bangalore
+      year: 2012-2016
 
-## Skills
-## For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#skills:
-#  - name: Technical
-#    items:
-#      - name: Python
+# Skills
+# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+skills:
+  - name: Technical
+    items:
+      - name: ISO 13485:2016
 #        description: ''
 #        percent: 80
 #        icon: python
 #        icon_pack: fab
-#      - name: Data Science
+      - name: US FDA 21CFR
 #        description: ''
 #        percent: 100
 #        icon: chart-line
