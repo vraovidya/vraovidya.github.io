@@ -49,9 +49,9 @@ featured: true
 url_pdf: 'https://arxiv.org/abs/2311.12396'
 url_code: 'https://github.com/ASU-VDA-Lab/GreenFPGA'
 url_dataset: ''
-url_poster: ''
+url_poster: 'publication/ecochip/greenfpga_dac24_poster.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'publication/ecochip/greenfpga_dac24_slides.pdf'
 url_source: ''
 url_video: ''
 
