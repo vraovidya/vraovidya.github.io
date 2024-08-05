@@ -239,9 +239,9 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me for collaborations or to discuss my research !!
+        Feel free to contact me for speaking opportunities and collaboration. 
       # Contact (add or remove contact options as necessary)
-      email: cchoppal@asu.edu
+      email: vasudevaraovidya@gmail.com
       #C phone: 
       #C appointment_url: 'https://calendly.com'
       address:
@@ -256,14 +256,14 @@ sections:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '33.418339034099446'
-        longitude: '-111.928423120922'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/ChetanSudarshan'
+      #Vcoordinates:
+      #V  latitude: '33.418339034099446'
+      #V  longitude: '-111.928423120922'  
+      #Vcontact_links:
+      #V  - icon: twitter
+      #V    icon_pack: fab
+      #V    name: DM Me
+      #V    link: 'https://twitter.com/ChetanSudarshan'
         #C - icon: skype
         #C   icon_pack: fab
         #C   name: Skype Me
