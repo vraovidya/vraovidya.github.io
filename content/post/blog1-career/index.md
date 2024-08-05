@@ -7,6 +7,135 @@ image:
   caption: 'Image credit: **Adobe Firefly**'
 ---
 
+## Are you pursuing or thinking of pursuing Biotechnology? 
+
+### **You have made the right decision!!**
+
+**Biotechnology and Biomedical Sciences** is a dynamic field offering numerous opportunities to contribute to the core pillars of human life: healthcare, food science, agriculture, and the environment. Given the increasing emphasis on health and well-being in our fast-paced world, the demand for innovative products and services in these areas is continually growing. The COVID-19 pandemic highlighted the critical importance of accelerated innovation and development in healthcare.
+
+Pursuing a career in Biotechnology and Biomedical Sciences can lead to roles in several key areas:
+
+**Research and Development (R&D)**
+
+Researchers in this field focus on developing groundbreaking products, processes, and technologies. Common roles include:
+
+- Microbiologists
+- Biochemists
+- Molecular Biologists
+- Biomedical Engineers
+
+```markmap {height="200px"}
+- Research and Development
+  - Microbiologists
+  - Biochemists
+  - Molecular Biologists
+  - Biomedical Engineers
+```
+
+**Production and Manufacturing**
+
+This area involves scaling laboratory discoveries into commercial products. Key roles include:
+
+- Bioprocess Engineers
+- Quality Control Specialists
+- Fermentation Specialists
+
+```markmap {height="200px"}
+- Production and Manufacturing
+  - Bioprocess Engineers
+  - Quality Control Specialists
+  - Fermentation Specialists
+```
+
+**Quality Assurance and Regulatory Affairs**
+
+Ensuring product safety, efficacy, and compliance with regulations is crucial. Professionals in this area may hold positions such as:
+
+- Quality Assurance Specialists
+- Quality Engineers
+- Regulatory Affairs Specialists
+
+```markmap {height="200px"}
+- Quality Assurance and Regulatory Affairs
+  - Quality Assurance Specialists
+  - Quality Engineers
+  - Regulatory Affairs Specialists
+```
+
+**Clinical Research**
+
+Dedicated to advancing patient care, clinical research involves studying the safety and effectiveness of new medical interventions. Roles in this field include:
+
+- Clinical Research Associates
+- Clinical Trial Managers
+
+```markmap {height="200px"}
+- Clinical Research
+  - Clinical Research Associates
+  - Clinical Trial Managers
+```
+
+Beyond these core areas, Biotechnologists can also excel in:
+
+- Sales and Marketing
+- Bioinformatics
+- Intellectual Property
+- Policy and Advocacy
+- Business Development
+
+```markmap {height="200px"}
+- Miscellaneous
+  - Sales and Marketing
+  - Bioinformatics
+  - Intellectual Property
+  - Policy and Advocacy
+  - Business Development
+```
+
+```markmap
+- Mindmaps
+  - Research and Development
+    - Microbiologists
+    - Biochemists
+    - Molecular Biologists
+    - Biomedical Engineers
+  - Production and Manufacturing
+    - Bioprocess Engineers
+    - Quality Control Specialists
+    - Fermentation Specialists
+  - Quality Assurance and Regulatory Affairs
+    - Quality Assurance Specialists
+    - Quality Engineers
+    - Regulatory Affairs Specialists
+  - Clinical Research
+    - Clinical Research Associates
+    - Clinical Trial Managers
+  - Miscellaneous
+    - Sales and Marketing
+    - Bioinformatics
+    - Intellectual Property
+    - Policy and Advocacy
+    - Business Development
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log('hello');
+      console.log('code block');
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+
+
+**By combining scientific knowledge with a strong understanding of market needs, individuals in Biotechnology and Biomedical Sciences can drive positive change and improve lives worldwide.**
+
+######################################################################################################
+
+
 Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
