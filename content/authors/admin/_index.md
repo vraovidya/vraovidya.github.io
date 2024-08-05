@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Chetan Sudarshan
+title: Vidya V Rao
 
 # Name pronunciation (optional)
-#name_pronunciation: Chetan
+#name_pronunciation: Vidya
 
 # Full name (for SEO)
-first_name: Chetan
-last_name: Sudarshan
+first_name: Vidya
+last_name: V Rao
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate at Arizona State University
+role: Quality & Regulatory Professional, Certified ISO 13485:2016 Lead Auditor
 
 # Organizations/Affiliations to show in About widget
 organizations:
