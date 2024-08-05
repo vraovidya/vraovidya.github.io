@@ -25,7 +25,9 @@ doi: '10.1109/HPCA57654.2024.00058'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['paper-conference'] #Conference
+#publication_types: ["article-journal"] #Journal 
+#publication_types: ["article"] #Arxiv
 
 # Publication name and optional abbreviated publication name.
 publication: In *HPCA 2024*
