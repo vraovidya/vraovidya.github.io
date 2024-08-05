@@ -42,14 +42,14 @@ sections:
       title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  #- block: skills
-  #  content:
-  #    title: Skills
-  #    text: ''
-  #    # Choose a user to display skills from (a folder name within `content/authors/`)
-  #    username: admin
-  #  design:
-  #    columns: '1'
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   #C- block: experience
   #C  content:
   #C    title: Experience
@@ -127,58 +127,59 @@ sections:
   #C         url: ''
   #C   design:
   #C     columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Sustainable Computing
-          tag: Sustainable Computing
-        - name: Other
-          tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+  
+  #V - block: collection
+  #V  id: featured
+  #V  content:
+  #V    title: Featured Publications
+  #V    filters:
+  #V      folders:
+  #V        - publication
+  #V      featured_only: true
+  #V  design:
+  #V    columns: '2'
+  #V    view: card
+  #V- block: collection
+  #V  content:
+  #V    title: Recent Publications
+  #V    text: |-
+  #V      {{% callout note %}}
+  #V      Quickly discover relevant content by [filtering publications](./publication/).
+  #V      {{% /callout %}}
+  #V    filters:
+  #V      folders:
+  #V        - publication
+  #V      exclude_featured: true
+  #V  design:
+  #V    columns: '2'
+  #V    view: citation
+  #V- block: portfolio
+  #V  id: projects
+  #V  content:
+  #V    title: Projects
+  #V    filters:
+  #V      folders:
+  #V        - project
+  #V    # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  #V    default_button_index: 0
+  #V    # Filter toolbar (optional).
+  #V    # Add or remove as many filters (`filter_button` instances) as you like.
+  #V    # To show all items, set `tag` to "*".
+  #V    # To filter by a specific tag, set `tag` to an existing tag name.
+  #V    # To remove the toolbar, delete the entire `filter_button` block.
+  #V    buttons:
+  #V      - name: All
+  #V        tag: '*'
+  #V      - name: Sustainable Computing
+  #V        tag: Sustainable Computing
+  #V      - name: Other
+  #V        tag: Demo
+  #V  design:
+  #V    # Choose how many columns the section has. Valid values: '1' or '2'.
+  #V    columns: '1'
+  #V    view: showcase
+  #V    # For Showcase view, flip alternate rows?
+  #V    flip_alt_rows: false
   - block: collection
     id: talks
     content:
@@ -196,7 +197,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         folders:
@@ -217,14 +218,14 @@ sections:
       view: compact
       columns: '2'
  
-  #C- block: markdown
-  #C  content:
-  #C    title: Gallery
-  #C    subtitle: ''
-  #C    text: |-
-  #C      {{< gallery album="demo" >}}
-  #C  design:
-  #C    columns: '1'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
 
 
   #C - block: tag_cloud
