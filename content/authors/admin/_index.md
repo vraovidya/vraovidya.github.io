@@ -20,20 +20,22 @@ superuser: true
 role: Quality & Regulatory Professional, Certified ISO 13485:2016 Lead Auditor
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Arizona State University
-    url: https://ecee.engineering.asu.edu/
+#organizations:
+#  - name: Arizona State University
+#    url: https://ecee.engineering.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include sustainable computing, heterogeneous integration, chiplets, and computer architecture
+bio: VIDYA
 
 # Interests to show in About widget
-interests:
+interests: 
+  - VIDYA
   - Sustainable Computing 
   - Heterogeneous Integration
   - Chiplets
   - Computer Architecture
 
+VIDYA
 ## Education to show in About widget
 #education:
 #  courses:
@@ -47,6 +49,7 @@ interests:
 #      institution: R.V. College of Engineering, Bangalore
 #      year: 2012-2016
 
+VIDYA
 ## Skills
 ## For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #skills:
@@ -87,6 +90,7 @@ interests:
 #        icon: camera-retro
 #        icon_pack: fas
 
+VIDYA
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -123,6 +127,7 @@ social:
 highlight_name: true
 ---
 
+VIDYA ABOUT ME 
 I am a second-year Ph.D. student at [Arizona State University](https://ecee.engineering.asu.edu/), where I am fortunate to be advised by [Prof. Vidya A Chhabria](https://faculty.engineering.asu.edu/vidyachhabria/). Currently, my research is centered around sustainable computing and chiplet-based heterogeneous integration architecture.
 
 I received my Bachelor's in Electronics and Telecommunication Engineering from [R.V. College of Engineering](https://www.rvce.edu.in/), I then graduated with a Master's in Electrical Engineering from [Arizona State University](https://ecee.engineering.asu.edu/). 
@@ -130,33 +135,35 @@ I received my Bachelor's in Electronics and Telecommunication Engineering from [
 I have a strong interest in fitness, and in my leisure time, I engage in long-distance running. 
 {style="text-align: justify;"}
 
+<!-- ---
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
+--- -->
 
-<ul style="width: auto; height: 300px; overflow: auto">
-  <li> <b>[July, 2024]</b>. Gave a talk on Sustainable computing work - <a href="https://github.com/ASU-VDA-Lab/GreenFPGA">GreenFPGA</a> and <a href="https://github.com/ASU-VDA-Lab/ECO-CHIP/tree/main">ECO-CHIP Github</a> at <b>Microsoft Research</b> </li>
-  
-  <li> <b>[Jun, 2024]</b> Our work on evaluting FPGA as environmentally sustainable computing solution is open-sourced! Check it out <b><a href="https://github.com/ASU-VDA-Lab/GreenFPGA">GreenFPGA GitHub</a></b> </li>
-
-  <li> <b>[Jun, 2024]</b>. Attended <a href="https://www.dac.com/">DAC 2024</a>! at San Francisco, presented my work <b><a href="https://arxiv.org/abs/2311.12396">GreenFPGA paper</a></b> </li>
- 
-  <li> <b>[Mar, 2024]</b>. Attended <a href="https://www.computer.org/csdl/proceedings/hpca/2024/1VOAw53AeT6">HPCA 2024</a>! at Edinburgh, Scotland and presented my work <b><a href="https://arxiv.org/abs/2306.09434">ECO-CHIP paper</a></b> </li>
-
-  <li> <b>[Feb, 2024]</b>. Passed my Ph.D. qualifier exam. Yaay!! </li>
-
-  <li> <b>[Feb, 2024]</b>. Our paper <a href="https://arxiv.org/abs/2311.12396">GreenFPGA paper</a> is accepted by <a href="https://www.dac.com/">DAC 2024</a>! </li>
-  
-  <li> <b>[Oct, 2023]</b>. Our work on estimating carbon footprint for heterogeneous chiplet-based systems is open-sourced! 
-  Check it out. <b><a href="https://github.com/ASU-VDA-Lab/ECO-CHIP/tree/main">ECO-CHIP Github</a></b>  </li>
-  
-  <li> <b>[Oct, 2023]</b>. Our paper <a href="https://arxiv.org/abs/2306.09434">ECO-CHIP paper</a> is accepted by <a href="https://www.computer.org/csdl/proceedings/hpca/2024/1VOAw53AeT6">HPCA 2024</a>! </li>
-  
-  <li> <b>[July, 2023]</b>. Secured DAC 2023 Young Fellow </li>
-
-  <li> <b>[July, 2023]</b>. Attended DAC 2023 at San Francisco</li>
-  
-  <li> <b>[Jan, 2023]</b>. Started my Ph.D. journey!</li>
-  
-</ul>
+#<ul style="width: auto; height: 300px; overflow: auto">
+#  <li> <b>[July, 2024]</b>. Gave a talk on Sustainable computing work - <a href="https://github.com/ASU-VDA-Lab/GreenFPGA">GreenFPGA</a> and <a href="https://github.com/ASU-VDA-Lab/ECO-CHIP/tree/main">ECO-CHIP Github</a> at <b>Microsoft Research</b> </li>
+#  
+#  <li> <b>[Jun, 2024]</b> Our work on evaluting FPGA as environmentally sustainable computing solution is open-sourced! Check it out <b><a href="https://github.com/ASU-VDA-Lab/GreenFPGA">GreenFPGA GitHub</a></b> </li>
+#
+#  <li> <b>[Jun, 2024]</b>. Attended <a href="https://www.dac.com/">DAC 2024</a>! at San Francisco, presented my work <b><a href="https://arxiv.org/abs/2311.12396">GreenFPGA paper</a></b> </li>
+# 
+#  <li> <b>[Mar, 2024]</b>. Attended <a href="https://www.computer.org/csdl/proceedings/hpca/2024/1VOAw53AeT6">HPCA 2024</a>! at Edinburgh, Scotland and presented my work <b><a href="https://arxiv.org/abs/2306.09434">ECO-CHIP paper</a></b> </li>
+#
+#  <li> <b>[Feb, 2024]</b>. Passed my Ph.D. qualifier exam. Yaay!! </li>
+#
+#  <li> <b>[Feb, 2024]</b>. Our paper <a href="https://arxiv.org/abs/2311.12396">GreenFPGA paper</a> is accepted by <a href="https://www.dac.com/">DAC 2024</a>! </li>
+#  
+#  <li> <b>[Oct, 2023]</b>. Our work on estimating carbon footprint for heterogeneous chiplet-based systems is open-sourced! 
+#  Check it out. <b><a href="https://github.com/ASU-VDA-Lab/ECO-CHIP/tree/main">ECO-CHIP Github</a></b>  </li>
+#  
+#  <li> <b>[Oct, 2023]</b>. Our paper <a href="https://arxiv.org/abs/2306.09434">ECO-CHIP paper</a> is accepted by <a href="https://www.computer.org/csdl/proceedings/hpca/2024/1VOAw53AeT6">HPCA 2024</a>! </li>
+#  
+#  <li> <b>[July, 2023]</b>. Secured DAC 2023 Young Fellow </li>
+#
+#  <li> <b>[July, 2023]</b>. Attended DAC 2023 at San Francisco</li>
+#  
+#  <li> <b>[Jan, 2023]</b>. Started my Ph.D. journey!</li>
+#  
+#</ul>
 
 
 
